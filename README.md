@@ -1,6 +1,8 @@
 # Simple-Scripts
 Here are a lot of simple and useful scripts for the help of pentests.
 
+It is **forbidden** to use the scripts in this repository!
+
 ## Content
 * [Check Subdomains](https://github.com/Privat-Pentests/Simple-Scripts/tree/master/check-subdomains) Script
 * [Get-DomainInfo](https://github.com/Privat-Pentests/Simple-Scripts/tree/master/get-domain-info) Script
