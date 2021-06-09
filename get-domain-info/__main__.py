@@ -7,7 +7,7 @@ if __name__ == "__main__":
     response = json.loads(json.dumps(request.json()))
 
     if response['status'] != 'success':
-        print("No information could be found for this domain. ")
+        print("No information could be found for this domain.")
     else:
         print('Location: {} ({} - {} in {})'.format(response['country'], response['countryCode'], response['city'], response['regionName']))
         print('Timezone: {}'.format(response['timezone']))
